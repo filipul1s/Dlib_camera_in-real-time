@@ -18,13 +18,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="25" />
+          <entry key="jpg" value="26" />
           <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="25" />
+          <entry key="Image" value="26" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
@@ -89,6 +89,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,6 +125,12 @@
               <item name="DlibStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DlibStudy" type="462c0819:PsiDirectoryNode" />
               <item name="person" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DlibStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DlibStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="person" type="462c0819:PsiDirectoryNode" />
+              <item name="person1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +256,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18655097" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18675353" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,9 +307,6 @@
     <entry file="file://$PROJECT_DIR$/person/person1/2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/person/person1/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/person/person1/3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -348,6 +354,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person/person1/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/摄像头_dlib库实时人脸.py">
       <provider selected="true" editor-type-id="text-editor">
